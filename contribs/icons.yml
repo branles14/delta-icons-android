@@ -33,3 +33,6 @@ touch_hle:
 
 ikea:
   - com.ikea.ksa.kompis/com.ikea.kompis.StartupActivity
+
+rtd_myride:
+  - com.justride.rtddenver/com.justride.rtddenver.MainActivity
